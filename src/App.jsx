@@ -23,7 +23,7 @@ function App() {
             <a href="mailto:bidyasagarhazarika@gmail.com">Mail</a>
             <a href="https://www.linkedin.com/in/bidyasagar22" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <a href="https://www.github.com/DevDreamer26" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://bidyasagarresume.tiiny.site/" target="_blank" rel="noopener noreferrer">Resume</a>
+            <a href="https://bidyasagar.tiiny.site/" target="_blank" rel="noopener noreferrer">Resume</a>
           </p>
           <div className="update">
             <h2>Updates</h2>
