@@ -1,12 +1,12 @@
 {
-  "homepage": "https://DevDreamer26.github.io/bidyasagar",
+  "homepage": "https://devdreamer26.github.io/bidyasagar",
   "name": "xoxo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"pnpm run build",
-    "deploy":"gh-pages -d dist",
+    "predeploy": "pnpm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
