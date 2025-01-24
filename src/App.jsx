@@ -14,7 +14,7 @@ function App() {
           </p>
             <div className="profileImg">
               <img
-                src="assets/Bidya-SH.png"
+                src="assets/Bidyasagar.png"
                 alt="Bidyasagar Profile"
               />
             </div></div>
