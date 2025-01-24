@@ -72,7 +72,7 @@ function App() {
 
       </div>
       <div className="footer">
-        Last updated on [January 08, 2025]. © Bidyasagar
+        Last updated on [January 24, 2025]. © Bidyasagar
       </div>
     </>
   );
