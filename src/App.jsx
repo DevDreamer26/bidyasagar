@@ -28,9 +28,13 @@ function App() {
           <div className="update">
             <h2>Updates</h2>
             <ul>
+            <li>
+                <b>From January, 2025, to Present:</b> Research Intern at <a href="https://cysoc-lab.github.io/" target='blank'><i>CySoc Lab</i></a>
+              </li>
+
               <li>
-                <b>From July 10, 2024, to Present:</b> Working as an intern at <a href="https://www.linkedin.com/company/jalyan" target='blank'><i>Jalyan Innovations Pvt. Ltd.,</i></a>
-                building a smart mobile app that provides data analytics for fish farmers using the no-code platform <a href="https://www.flutterflow.io/"><i>FlutterFlow,</i></a>also
+                <b>From July 10, 2024, to Present:</b> Working as an intern at <a href="https://www.linkedin.com/company/jalyan" target='blank'><i>Jalyan Innovations Pvt. Ltd. </i></a> 
+                 building a smart mobile app that provides data analytics for fish farmers using the no-code platform <a href="https://www.flutterflow.io/"><i>FlutterFlow,</i></a>also
                 managing websites and backend systems.
               </li>
               <li>
@@ -46,13 +50,16 @@ function App() {
           <div className="learnings">
             <h2>Learnings</h2>
             <ul>
-              <li><b>January 5, 2025:</b> <i>Learning mobile app development using Flutter.</i></li>
+
+            <li><b>January 5, 2025:</b> <i>Learning Python</i></li>
+
+              {/* <li><b>January 5, 2025:</b> <i>Learning mobile app development using Flutter.</i></li> */}
 
               <li><b>July 10, 2024:</b> <i>Started learning FlutterFlow (a low-code mobile development platform) and Firebase.</i></li>
 
               <li><b>June 28, 2023:</b><i> Began learning ReactJS for web development projects. Some projects are available on my resume and GitHub.</i></li>
 
-              <li><b>October 1, 2022:</b><i> Learned the fundamentals of computer networks and hacking.</i></li>
+              <li><b>October 1, 2022:</b><i> Learned the fundamentals of computer networks.</i></li>
 
               <li><b>April 2021:</b> <i>"Hello World !" </i></li>
             </ul>
@@ -60,7 +67,7 @@ function App() {
           <div className="services">
             <h2>Services</h2>
 
-            I build websites and mobile apps. Feel free to contact me for exciting projects or ideas.
+            Feel free to contact me for exciting projects or ideas.
 
             <br />
             Contact no: +91 8822009123
@@ -72,7 +79,7 @@ function App() {
 
       </div>
       <div className="footer">
-        Last updated on [January 24, 2025]. © Bidyasagar
+        Last updated on [January 27, 2025]. © Bidyasagar
       </div>
     </>
   );
